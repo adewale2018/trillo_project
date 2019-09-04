@@ -44,16 +44,10 @@ body {
 .header {
   height: 7rem;
   background-color: #fff;
-  border-bottom: var(--color-grey-light-2); }
-
-.content {
-  display: flex; }
+  border-bottom: red; }
 
 .sidebar {
-  background-color: var(--color-grey-dark-1);
-  flex: 0 0 18%; }
+  background-color: var(--color-grey-dark-1); }
 
 .hotel-view {
-  background-color: #fff;
-  background-color: orangered;
-  flex: 1; }
+  background-color: #fff; }
